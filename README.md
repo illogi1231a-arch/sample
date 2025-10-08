@@ -54,4 +54,4 @@
 ---
 
 ## スクリーンショット / GIF
-例：![作品のスクショ](images/スクリーンショット2025-09-25140424.png)# sample
+<img width="402" height="432" alt="スクリーンショット 2025-10-08 141516" src="https://github.com/user-attachments/assets/7c2267c0-0fbc-4f33-8f5c-af2691df0990" />
